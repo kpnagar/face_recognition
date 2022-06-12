@@ -4,6 +4,8 @@ import numpy as np
 import os
 
 
+#TODO: 1. create image dir. and check images inside dir.
+#TODO: 2. check exit.
 class FaceReader():
 
     def __init__(self) -> None:
